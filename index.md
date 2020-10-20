@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Ric-Chang/3D_Model/blob/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[AR Page](https://github.com/Ric-Chang/3D_Model/blob/main/3D.html)
+[AR Page](3D.html)
 
 ### Markdown
 
